@@ -1,11 +1,11 @@
 papers:
 
-  - title: "Guiding Heliophysics Toward an Enhanced Transdisciplinary Framework"
-    authors: "Jenny L. Verniero, James Juno, V . M. Sadykov, <b>Paul J. Wright</b>, Sam J. Schonfeld, Ben L. Alterman"
-    venue: "Heliophysics 2050 Workshop, 2020"
-    workshop_website: "https://www.hou.usra.edu/meetings/helio2050/"
+  - title: "Sub-second production of a quantum degenerate gas"
+    authors: "Gregory A. Phelps,  Anne Hébert, Aaron Krahn, Susannah Dickerson, Furkan Öztürk, Sepehr Ebadi, Lin Su, Markus Greiner"
+    preprint: "https://arxiv.org/abs/2007.10807"
     selected: y
 
+<!--
   - title: "Toward A Sustainable Software Development Model for Heliophysics"
     authors: "Will T. Barnes, James Juno, Jeffrey W. Reep, Jack Ireland, <b>Paul J. Wright</b>, Sarah A. Spitzer, B. L. Alterman, David Stansby, Emily Lichko"
     venue: "Heliophysics 2050 Workshop, 2020"
@@ -87,3 +87,4 @@ papers:
     venue: "The Astrophysical Journal, 2017"
     paper_pdf: "https://iopscience.iop.org/article/10.3847/1538-4357/835/1/6/meta"
     selected: n
+    -->
