@@ -5,7 +5,7 @@ papers:
     preprint: "https://arxiv.org/abs/2007.10807"
     selected: y
 
-<!--
+
   - title: "Toward A Sustainable Software Development Model for Heliophysics"
     authors: "Will T. Barnes, James Juno, Jeffrey W. Reep, Jack Ireland, <b>Paul J. Wright</b>, Sarah A. Spitzer, B. L. Alterman, David Stansby, Emily Lichko"
     venue: "Heliophysics 2050 Workshop, 2020"
@@ -87,4 +87,3 @@ papers:
     venue: "The Astrophysical Journal, 2017"
     paper_pdf: "https://iopscience.iop.org/article/10.3847/1538-4357/835/1/6/meta"
     selected: n
-    -->
