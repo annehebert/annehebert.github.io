@@ -1,16 +1,17 @@
 experiences:
   - place: "Johns Hopkins University"
-    time: "August '21 - present"
+    time: "Aug '21 - present"
     title: "Postdoctoral research fellow"
     category: "school"
 
   - place: "Harvard University"
-    time: "August '14 - May '21"
+    time: "Aug '14 - May '21"
     title: "PhD student"
     subtitle: "Physics"
     category: "school"
 
-  - place: "University of California, Santa Barbara"
-    time: "September '10 - June '14"
+  - place: "UCSB"
+    time: "Sept '10 - June '14"
     title: "Bachelors in Science student"
+    subtitle: "Physics"
     category: "school"
