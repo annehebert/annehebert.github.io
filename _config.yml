@@ -6,3 +6,6 @@ includes:    ./_includes
 collections:
   projects:
     output: true
+url: "https://https://annehebert.github.io/"
+plugins:
+ - jekyll-sitemap
