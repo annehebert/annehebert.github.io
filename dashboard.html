@@ -66,6 +66,14 @@
 
     <section class="header">
       <div class="row">
+        <div class="three columns">
+          <a href="{{ site.baseurl }}/"><img class="u-max-full-width" src='{{ site.baseurl }}{{ site.data.main_info.profile_pic }}'></a>
+        </div>
+        <div class="nine columns main-description">
+            <h1>{{ site.data.main_info.name }}</h1>
+            <p>{{ site.data.main_info.title }}</p>
+            <p>{{ site.data.main_info.email }}</p>
+        </div>
       </div>
     </section>
 
@@ -74,9 +82,6 @@
       <div class="container">
         <ul class="navbar-list">
           <li class="navbar-item"><a class="navbar-link" href={{ "/index.html" | prepend: site.baseurl }}>Home</a></li>
-          <li class="navbar-item-right"><a class="navbar-link-right" href={{ "/projects.html" | prepend: site.baseurl }}>
-          <span style="color:#44a340;">P</span><span style="color:#3f9b3c;">r</span><span style="color:#399238;">o</span><span style="color:#348a34;">j</span><span style="color:#2e812f;">e</span><span style="color:#29792b;">c</span><span style="color:#237027;">t</span><span style="color:#1e6823;">s</span>
-        </a></li>
         </ul>
       </div>
     </nav>
