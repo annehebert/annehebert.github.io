@@ -1,7 +1,5 @@
-# pauljwright.github.io
-Personal website
-
-https://identity.stanford.edu/color.html
+# annehebert.github.io
+My personal website
 
 
 Run your Jekyll site locally:
