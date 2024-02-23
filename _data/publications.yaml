@@ -1,19 +1,19 @@
 papers:
 
 
- - title: "Increasing burden of opioid overdose mortality in the United States: Years of life lost by age, race, and state from 2019-2021"
-    authors: "Anne H. Hébert, Alison L. Hill"
-    preprint: "https://www.medrxiv.org/content/10.1101/2023.07.07.23292297v1"
-    selected: y
+ #- title: "Increasing burden of opioid overdose mortality in the United States: Years of life lost by age, race, and state from 2019-2021"
+ #   authors: "Anne H. Hébert, Alison L. Hill"
+ #   preprint: "https://www.medrxiv.org/content/10.1101/2023.07.07.23292297v1"
+ #   selected: y
 
- - title: "Dipolar quantum solids emerging in a Hubbard quantum simulator"
-    authors: "Lin Su, Alexander Douglas, Michal Szurek, Robin Groth, S. Furkan Ozturk, Aaron Krahn, Anne H. Hébert, Gregory A. Phelps, Sepehr Ebadi, Susannah Dickerson, Francesca Ferlaino, Ognjen Markovic, Markus Greiner"
-    venue: "Nature, 2023"
-    paper_pdf: "https://www.nature.com/articles/s41586-023-06614-3"
-    selected: y
+ #- title: "Dipolar quantum solids emerging in a Hubbard quantum simulator"
+ #   authors: "Lin Su, Alexander Douglas, Michal Szurek, Robin Groth, S. Furkan Ozturk, Aaron Krahn, Anne H. Hébert, Gregory A. Phelps, Sepehr Ebadi, Susannah Dickerson, Francesca Ferlaino, Ognjen Markovic, Markus Greiner"
+ #   venue: "Nature, 2023"
+ #   paper_pdf: "https://www.nature.com/articles/s41586-023-06614-3"
+ #   selected: y
 
   - title: "Sub-second production of a quantum degenerate gas"
-    authors: "Gregory A. Phelps,  Anne Hébert, Aaron Krahn, Susannah Dickerson, Furkan Öztörk, Sepehr Ebadi, Lin Su, Markus Greiner"
+    authors: "Gregory A. Phelps,  Anne H. Hébert, Aaron Krahn, Susannah Dickerson, Furkan Öztörk, Sepehr Ebadi, Lin Su, Markus Greiner"
     preprint: "https://arxiv.org/abs/2007.10807"
     selected: y
 
