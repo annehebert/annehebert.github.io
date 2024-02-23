@@ -1,9 +1,9 @@
 papers:
 
- - title: "Increasing burden of opioid overdose mortality in the United States: Years of life lost by age, race, and state from 2019-2021"
-   authors: "Anne H. Hébert, Alison L. Hill"
-   preprint: "https://www.medrxiv.org/content/10.1101/2023.07.07.23292297v1"
-   selected: y
+  - title: "Increasing burden of opioid overdose mortality in the United States: Years of life lost by age, race, and state from 2019-2021"
+    authors: "Anne H. Hébert, Alison L. Hill"
+    preprint: "https://www.medrxiv.org/content/10.1101/2023.07.07.23292297v1"
+    selected: y
 
  #- title: "Dipolar quantum solids emerging in a Hubbard quantum simulator"
  #   authors: "Lin Su, Alexander Douglas, Michal Szurek, Robin Groth, S. Furkan Ozturk, Aaron Krahn, Anne H. Hébert, Gregory A. Phelps, Sepehr Ebadi, Susannah Dickerson, Francesca Ferlaino, Ognjen Markovic, Markus Greiner"
